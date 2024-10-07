@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jorgeliendro123
 - 👀 I’m interested in programación y base de datos
 - 🌱 I’m currently learning programación web y de escritorio
-- 💞️ I’m looking to collaborate on desarrolladores
+- 💞️ I’m looking to collaborate on desarrollo de aplicaciones web 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: jorge
 - ⚡ Fun fact: ...
 
 <!---
